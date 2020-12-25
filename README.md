@@ -1,0 +1,1 @@
+# matriz-tablero-ajedres-movil-izquierda-derecha-
